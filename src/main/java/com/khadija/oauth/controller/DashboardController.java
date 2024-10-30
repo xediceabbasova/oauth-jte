@@ -25,7 +25,6 @@ public class DashboardController {
                 model.addAttribute("username", oauth2User.getAttribute("name"));
                 model.addAttribute("email", oauth2User.getAttribute("email"));
                 model.addAttribute("authorities", oauth2User.getAuthorities());
-
             }
         }
 
