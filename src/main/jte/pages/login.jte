@@ -2,7 +2,7 @@
 
 @param Boolean error = false
 @param String errorMessage = null
-@param Boolean logout=false
+@param Boolean logout= false
 @param String logoutMessage = null
 @param CsrfToken csrf = null
 
